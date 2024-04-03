@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('alco_right_side_widget'));
+const root = ReactDOM.createRoot(document.getElementById('alco-help-frontend'));
 root.render(
   <React.StrictMode>
     <App />
